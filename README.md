@@ -17,5 +17,12 @@
 - Cannot access elements using index operator []. Need to check if the elements exist in the set or not.
 - Defined by enclosing elements in curly brackets {}.
 
+## Dictionaries 
+[dictionaries code](dictionaries.py)
+- Collection of key-value pairs, mutable.
+- Each key-value is unique, the keys are used to store and retrieve vales.
+- 
+
+
 
 
